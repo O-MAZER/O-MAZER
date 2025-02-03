@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@O_MAZER)
-<br>📧 You can reach me at: <o.mazer.freelance@gmail.com>
+<br>📧 You can reach me at: <https://www.fiverr.com/mazer_o>
 <br>👨‍💻 Here you can find my portfolio: <https://portfolio-o-mazers-projects.vercel.app/>
 
 # 💻 Tech Stack:
